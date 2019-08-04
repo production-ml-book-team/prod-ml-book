@@ -1,0 +1,8 @@
+# All the experiments can be listed after running the experiments in the environment 
+datmo run ‘python script.py’
+
+# Listing the experiments
+datmo ls
+
+# Rerun previous experiments from the run id
+datmo rerun <run-id>
